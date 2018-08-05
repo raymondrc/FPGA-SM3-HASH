@@ -1,0 +1,43 @@
+D:/WORKBENCH/SM3/tb/tb_SM3_top.v {1 {vlog -work work -stats=none D:/WORKBENCH/SM3/tb/tb_SM3_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_SM3_top
+
+Top level modules:
+	tb_SM3_top
+
+} {} {}} D:/WORKBENCH/SM3/rtl/compression_function.v {1 {vlog -work work -stats=none D:/WORKBENCH/SM3/rtl/compression_function.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module compression_function
+
+Top level modules:
+	compression_function
+
+} {} {}} D:/WORKBENCH/SM3/rtl/barrel_shifter.v {1 {vlog -work work -stats=none D:/WORKBENCH/SM3/rtl/barrel_shifter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module barrel_shifter
+
+Top level modules:
+	barrel_shifter
+
+} {} {}} D:/WORKBENCH/SM3/rtl/message_expansion.v {1 {vlog -work work -stats=none D:/WORKBENCH/SM3/rtl/message_expansion.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msg_expansion
+
+Top level modules:
+	msg_expansion
+
+} {} {}} D:/WORKBENCH/SM3/rtl/msg_padding.v {1 {vlog -work work -stats=none D:/WORKBENCH/SM3/rtl/msg_padding.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msg_padding
+
+Top level modules:
+	msg_padding
+
+} {} {}} D:/WORKBENCH/SM3/rtl/SM3_top.v {1 {vlog -work work -stats=none D:/WORKBENCH/SM3/rtl/SM3_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SM3_top
+
+Top level modules:
+	SM3_top
+
+} {} {}}
